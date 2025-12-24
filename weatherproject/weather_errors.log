@@ -1,0 +1,5 @@
+ERROR:root:Processing error for tokyo: name 'read_historical_data' is not defined
+ERROR:root:Processing error for tokyo: name 'read_historical_data' is not defined
+ERROR:root:Processing error for nabeul: name 'read_historical_data' is not defined
+ERROR:root:Processing error for nabeul: name 'read_historical_data' is not defined
+INFO:django.utils.autoreload:C:\Users\Syrin\OneDrive\Bureau\Weather\weatherproject\forecast\views.py changed, reloading.
